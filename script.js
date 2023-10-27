@@ -1,7 +1,7 @@
 "use strict";
 
-const API_KEY = "74e7a187bc6f4f57b37f131d24e20332";
-const API_SECRET = "eaf3f30ad0f7456a91d1e37d61329ddc";
+const API_KEY = "Shipstation_API_KEY";
+const API_SECRET = "Shipstation_API_SECRET";
 
 const createShipment = document.getElementById("place-order");
 
